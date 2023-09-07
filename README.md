@@ -17,6 +17,6 @@ Problem Solver: I thrive on tackling complex challenges and translating them int
 Collaborative Team Player: I believe in the power of collaboration. I enjoy working within diverse teams, sharing insights, and learning from my peers to collectively achieve project goals.
 
 Get in Touch
-I'm excited about the world of software development and always eager to connect with like-minded individuals. Feel free to explore my GitHub repository, where you can find a showcase of my projects, contributions, and the evolution of my coding journey. Don't hesitate to reach out via email at your.email@example.com for any inquiries, collaboration opportunities, or just to say hi!
+I'm excited about the world of software development and always eager to connect with like-minded individuals. Feel free to explore my GitHub repository, where you can find a showcase of my projects, contributions, and the evolution of my coding journey. Don't hesitate to reach out via email at fuadhasanfahim0@gmail.com for any inquiries, collaboration opportunities, or just to say hi!
 
 Let's code the future together 🚀
